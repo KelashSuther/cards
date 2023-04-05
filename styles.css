@@ -4,13 +4,12 @@
    
 }
 body{
-    background-color: #F1DA66;
+    background-color: red;
 }
 
 .row>div {
     border: 1px solid black;
     background: white;
-    /* height: 100px; */
     text-align: center;
     color: white;
 }
